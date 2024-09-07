@@ -1,4 +1,5 @@
-## **## Mente & Corpo: Seu guia para o bem-estar mental!** 
+## **## Mente & Corpo: Seu guia para o bem-estar mental!**#
+IMERSÃO ALURA + GOOGLE GEMINI
 
 ### **O que faz essa aplicação?**
 
